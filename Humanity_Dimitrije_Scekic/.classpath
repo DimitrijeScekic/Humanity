@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/jar_files/htmlunit-2.9.jar/htmlunit-2.9.jar"/>
+	<classpathentry kind="lib" path="C:/jar_files/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/jar_files/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/jar_files/mysql-connector-java-6.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/jar_files/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/jar_files/org.json-chargebee-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/jar_files/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/junit-4.13-beta-3.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/apiguardian-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/assertj-core-3.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/assertj-db-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/assertj-guava-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/byte-buddy-1.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/byte-buddy-agent-1.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/common-1.26.107.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/junit-jupiter-api-5.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/junit-platform-commons-1.1.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/junit-platform-commons-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/junit-platform-engine-1.1.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/junit-vintage-engine-5.1.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/mockito-core-2.28.2.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/mockito-kotlin-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/objenesis-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/opentest4j-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/opentest4j-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="C:/Junit/jar_files/th-junit4-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
